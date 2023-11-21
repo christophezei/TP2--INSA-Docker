@@ -34,7 +34,7 @@ Create two Dockerfiles:
 
 - One for ARM (Dockerfile.arm)
 - Another for x86 (Dockerfile.x86).
-- Use alpine images for x86 and arm:
+- Use Ubuntu images for x86 and arm:
   
    ```
    ubuntu:latest
